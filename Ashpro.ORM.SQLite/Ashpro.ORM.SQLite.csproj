@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mohammed Ashraf</Authors>
+    <Company>Ashpro</Company>
+    <Description>This is a micro ORM for SQLite database</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AshproStringExtension" Version="3.1.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+  </ItemGroup>
+
+</Project>
