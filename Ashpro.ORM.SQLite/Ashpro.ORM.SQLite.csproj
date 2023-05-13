@@ -5,6 +5,11 @@
     <Authors>Mohammed Ashraf</Authors>
     <Company>Ashpro</Company>
     <Description>This is a micro ORM for SQLite database</Description>
+    <PackageProjectUrl>https://github.com/Ashpro2013/Ashpro.ORM.SQLite.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Ashpro2013/Ashpro.ORM.SQLite.git</RepositoryUrl>
+    <PackageTags>SQLite ORM, ORM, Ashpro</PackageTags>
+    <PackageReleaseNotes>This is the intial release </PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
